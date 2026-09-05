@@ -1,0 +1,22 @@
+
+
+
+
+console.log("I typically use VS code or Visual Studio as my devlopment environments because these are the IDE that I have used in class before and so am the most familiar with.")
+console.log("No, I do now have any experience using vi, but in CS 2505, I learned how to use the GDB to edit C files")
+
+
+
+
+
+
+
+
+
+
+
+console.log("The advantage of using a terminal based editor is that it can be quicker to make changes and run you file. The disadvantage is that making some of those changes can be more difficult.") 
+
+
+
+

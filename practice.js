@@ -1,0 +1,3 @@
+
+console.log("Practicing using vi");
+
